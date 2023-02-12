@@ -185,7 +185,9 @@ Try to access from your browser the link to your WordPress http://<Web-Server-Pu
      ![![Congratulations Screenshots](Screenshot_20230106_061209.png)
      ![Thanks The End](Screenshot_20230106_061219.png)
 
-     ## Wow what a very long step to follow DevOps Journey justbj@live.com | BANJO BABADE
+     ## Wow what a very long step to follow DevOps Journey but very interesting 
+     
+     justbj@live.com | BANJO BABADE
      
 
 
