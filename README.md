@@ -3,7 +3,7 @@
 #### this practicals also covers the use of gdisk to add partitions to AWS EBS 'Elastic Block Storage' to my EC2 Instance. and the implementation of  of a three tier Archutecture of web solutions
 
 #### A THREE TEIR MODEL AND IMPLEMENTATION OF A WEB SOLUTION WITH WORDPRESS 
-![3 teir Presentation]](Screenshot_20230106_171447.png)
+![3 teir Presentation](Screenshot_20230106_171447.png)
 ## 1 CREATION AND CONFIGURATION OF WEB-SERVER
 ![EC2 Instance using Red Hat Linux](Screenshot_20230106_062959.png)
 I created three EDS of 10GB volume for each server  then attach them to the AWS ec2 instances(both Web-server and database-server)
